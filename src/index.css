@@ -5,9 +5,49 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(./back3.jpg);
+  background-image: cross-fade();
+  
 }
+.fade-img {
+  position: relative; 
+}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.navbar{
+background-color:#f0bbc2 !important;
+  width: auto;
+
+ 
+}
+.nav-item{
+  background-color: #f0bbc2;
+  align-items: center;
+}
+.date{
+  font-family:  "Love Ya Like A Sister", cursive;
+  font-style: initial;
+  color: white;
+  text-shadow: 2px 2px 0px black;
+  font-size: 50px;
+}
+.west-image{
+  background: url('./art.jpg');
+}
+.West{
+  color: bisque;
+  font-size: x-large;
+}
+.North{
+background: url(./north2.jpg);
+}
+.south{
+  background: url(./South.jpg);
+}
+.east{
+  background: url(./east.jpg);
 }
