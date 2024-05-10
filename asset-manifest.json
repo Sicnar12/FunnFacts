@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FunnFacts/static/css/main.55b7ec67.css",
+    "main.js": "/FunnFacts/static/js/main.72d077d7.js",
+    "static/js/787.d5ac5719.chunk.js": "/FunnFacts/static/js/787.d5ac5719.chunk.js",
+    "static/media/South.jpg": "/FunnFacts/static/media/South.b0baf7fe6482da3e1b31.jpg",
+    "static/media/art.jpg": "/FunnFacts/static/media/art.3a1c07ef4ed08f3ce704.jpg",
+    "static/media/back3.jpg": "/FunnFacts/static/media/back3.70300aea4a3fc99f09bf.jpg",
+    "static/media/east.jpg": "/FunnFacts/static/media/east.6e0e56c3404a8aa9216a.jpg",
+    "static/media/north2.jpg": "/FunnFacts/static/media/north2.03b1884e6220f891050f.jpg",
+    "index.html": "/FunnFacts/index.html",
+    "main.55b7ec67.css.map": "/FunnFacts/static/css/main.55b7ec67.css.map",
+    "main.72d077d7.js.map": "/FunnFacts/static/js/main.72d077d7.js.map",
+    "787.d5ac5719.chunk.js.map": "/FunnFacts/static/js/787.d5ac5719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b7ec67.css",
+    "static/js/main.72d077d7.js"
+  ]
+}
